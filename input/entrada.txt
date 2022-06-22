@@ -1,33 +1,13 @@
-public class HelloWorld1 {
-    public static void main(String[] args) {
-        if (j == 12){
-            System.out.println("hola");
-        }else if (j == 12){
-
-        }else{
-
-        }
-
-        while(i < 8){
-                    System.out.println("hola");
-                }
-        while(j <= 9){
-            int m = 10;
-            System.out.println("hola");
-            j++;
-        }
-        i = 0;
-        while(i < 8){
-            int m = 10;
-            System.out.println("hola");
-            j++;
-        }
-
+public class Mi_Clase_1
+{
+    public static void main(String args[])
+    {
+  
+int i = 0;
+while(i < 11) {
+    System.out.println(i);
+    i++;
+}
     }
 }
-
-
-
-
-
 
